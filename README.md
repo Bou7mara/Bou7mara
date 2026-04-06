@@ -1,26 +1,19 @@
 <h1 align="center">It's me Bou7mara!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Learning+Every+Day;Building+Cool+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Graphics+Engineer;Commited+to+Learning+Every+Day;Building+A+Ray+Tracer" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🌍 Based in Rabat  
-- 💻 Currently learning programming  
-- 🎯 Goal: Become a great developer  
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,HTML,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bou7mara&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" height="180"/>
@@ -33,5 +26,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Bou7mara/Bou7mara/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Bou7mara/Bou7mara/output/github-contribution-grid-snake.svg)
