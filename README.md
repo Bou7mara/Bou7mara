@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bou7mara</h1>
+<h1 align="center">It's me Bou7mara!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Future+Software+Engineer;Learning+Every+Day;Building+Cool+Stuff" />
