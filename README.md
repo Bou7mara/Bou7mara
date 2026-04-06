@@ -1,4 +1,4 @@
-<h1 align="center">It's me Bou7mara!</h1>
+<h1 align="center">It's me, Bou7mara!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Aspiring+Graphics+Engineer;Committed+to+Learning+Every+Day;Building+A+Ray+Tracer" />
@@ -17,5 +17,5 @@
 
 <p align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-dark-blue&hide_border=true&background=00000000" height="180000"/>
+  <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-dark-blue&hide_border=true&background=00000000" height="400"/>
 </p>
