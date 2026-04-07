@@ -17,5 +17,5 @@
 
 <p align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-dark-purple&hide_border=true&background=00000000" height="500"/>
+  <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-purple&hide_border=true&background=00000000" height="500"/>
 </p>
