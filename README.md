@@ -17,5 +17,5 @@
 
 <p align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-red&hide_border=true&background=00000000" height="500"/>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Bou7mara&theme=sakura-x&hide_border=true&border_radius=15&card_width=800&card_height=250)](https://git.io/streak-stats)
 </p>
