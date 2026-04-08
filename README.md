@@ -1,7 +1,7 @@
 <h1 align="center">It's me, Bou7mara!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&center=true&vCenter=true&width=500&lines=Aspiring+Graphics+Engineer;Committed+to+Learning+Every+Day;Building+A+Ray-Tracer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0000FF&center=true&vCenter=true&width=500&lines=Aspiring+Graphics+Engineer;Committed+to+Learning+Every+Day;Building+A+Ray-Tracer" />
 </p>
 
 ---
