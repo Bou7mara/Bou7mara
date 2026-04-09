@@ -17,6 +17,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-dark-blue&hide_border=true&border_radius=15&card_width=800&card_height=250" />
+    <img src="https://streak-stats.demolab.com?user=Bou7mara&theme=github-dark-blue&hide_border=true&border_radius=15&card_width=800&card_height=249" />
   </a>
 </p>
