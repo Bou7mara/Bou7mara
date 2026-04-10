@@ -8,7 +8,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,git,github,blender,cmake" />
+  <img src="https://skillicons.dev/icons?i=python,cmake,cpp,c,html,git,github,blender,latex" />
 </p>
 
 ---
